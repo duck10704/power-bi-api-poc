@@ -1,0 +1,36 @@
+{
+    "rows": [{
+            "DisconnectType": "Accont",
+            "Count": 10,
+            "LogDate": "06/30/2022"
+        }, {
+            "DisconnectType": "Network",
+            "Count": 5,
+            "LogDate": "06/30/2022"
+        }, {
+            "DisconnectType": "Port",
+            "Count": 4,
+            "LogDate": "06/30/2022"
+        }, {
+            "DisconnectType": "Other",
+            "Count": 15,
+            "LogDate": "06/30/2022"
+        }, {
+            "DisconnectType": "Accont",
+            "Count": 3,
+            "LogDate": "07/01/2022"
+        }, {
+            "DisconnectType": "Network",
+            "Count": 7,
+            "LogDate": "07/01/2022"
+        }, {
+            "DisconnectType": "Port",
+            "Count": 9,
+            "LogDate": "07/01/2022"
+        }, {
+            "DisconnectType": "Other",
+            "Count": 12,
+            "LogDate": "07/01/2022"
+        }
+    ]
+}

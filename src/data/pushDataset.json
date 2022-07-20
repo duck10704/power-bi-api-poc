@@ -1,0 +1,23 @@
+{
+    "name": "Offline IUR V2",
+    "defaultMode": "Push",
+    "tables": [
+      {
+        "name": "Offline IUR Chart",
+        "columns": [
+          {
+            "name": "DisconnectType",
+            "dataType": "string"
+          },
+          {
+            "name": "Count",
+            "dataType": "Int64"
+          },
+          {
+            "name": "LogDate",
+            "dataType": "DateTime"
+          }
+        ]
+      }
+    ]
+  }
